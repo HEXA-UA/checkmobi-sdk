@@ -3,6 +3,8 @@
 This is Checkmobi Ruby Library
 For additional examples, please see official documentation at [https://checkmobi.com/documentation.html#/overview](https://checkmobi.com/documentation.html#/overview) 
 
+[![Code Climate](https://codeclimate.com/github/HEXA-UA/checkmobi-sdk/badges/gpa.svg)](https://codeclimate.com/github/HEXA-UA/checkmobi-sdk)
+
 ## Installation
 
 Add this line to your application's Gemfile:
