@@ -1,0 +1,8 @@
+build
+clean
+clobber
+install
+install:local
+release[remote]
+spec
+spec:all
