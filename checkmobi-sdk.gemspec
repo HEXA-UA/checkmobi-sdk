@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Checkmobi's Ruby SDK"
   spec.description   = "Checkmobi's Ruby SDK for interacting with the Checkmobi API."
-  spec.homepage      = 'https://hexa.com.ua'
+  spec.homepage      = 'https://github.com/hexa-ua/checkmobi-sdk'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

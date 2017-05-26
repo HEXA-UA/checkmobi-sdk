@@ -3,6 +3,7 @@
 This is Checkmobi Ruby Library
 For additional examples, please see official documentation at [https://checkmobi.com/documentation.html#/overview](https://checkmobi.com/documentation.html#/overview) 
 
+[![Gem Version](https://badge.fury.io/rb/checkmobi-sdk.svg)](https://badge.fury.io/rb/checkmobi-sdk)
 [![Build Status](https://travis-ci.org/HEXA-UA/checkmobi-sdk.svg?branch=master)](https://travis-ci.org/HEXA-UA/checkmobi-sdk)
 [![Code Climate](https://codeclimate.com/github/HEXA-UA/checkmobi-sdk/badges/gpa.svg)](https://codeclimate.com/github/HEXA-UA/checkmobi-sdk)
 
